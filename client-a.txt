@@ -2,3 +2,8 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+1) Computer chooses a number (X) from 1 to 10
+2) Player chooses a number (Y) from 1 to 10
+3) If Y = X print out "Great Guess, You Win"
+4) If Y does not = X print out "Try Again"
+5) Repeat steps 2 through 4 a max of 2 more times

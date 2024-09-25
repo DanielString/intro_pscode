@@ -1,4 +1,17 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+The warehouse is 30 aisles.  2 rows of 15, with a walkway separating them.
 
+1) Enter the warehouse through the South entrance
+2) Turn to the East
+3) Walk eastbound until aisle one is reached
+4) Turn to the South
+5) Walk southbound until aisle 16 is reached
+6) Turn to the West
+7) Walk westbound until you are between aisles 6 and 21
+8) Turn to the North
+9) Walk northbound, down aisle 6 for 20 feet
+10) Turn to the East
+11) Step eastbound for 2 steps
+12) Reach out and grab the box

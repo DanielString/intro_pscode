@@ -2,3 +2,8 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+1) Begin with X=0
+2) Scan a package
+3) Add X + 2
+4) If X + 2 < 50, repeat steps 2 and 3
+5) If X + 2 = 50, Print, "you are done"
